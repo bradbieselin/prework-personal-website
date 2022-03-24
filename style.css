@@ -31,6 +31,10 @@ body {
     background: #add8e6;
 }
 
+a {
+    color: inherit;
+}
+
 #headshot {
     display: block;
     margin-left: auto;
