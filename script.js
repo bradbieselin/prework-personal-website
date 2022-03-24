@@ -23,3 +23,5 @@ myName.addEventListener("click", function onClick(event) {
 
 const aboutTitle = document.createElement("h2");
 aboutTitle.className = "aboutTitle";
+aboutTitle.textContent = "About Me";
+document.querySelector("#about").append(aboutTitle);
