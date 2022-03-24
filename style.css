@@ -1,4 +1,40 @@
 body {
-    background: white;
+    background: #B0C4DE;
     font-family: Arial, Helvetica, sans-serif;
-  }
+}
+
+#home {
+    text-align: center;
+}
+
+#name {
+    color: purple;
+    font-size: 50px
+}
+
+.navbar {
+    list-style-type: none;
+    padding: .5rem;
+    margin: .5rem;
+    position: sticky;
+    text-align: center;
+}
+
+.navItem {
+    display: inline;
+    text-decoration: underline;
+    padding: .5rem;
+}
+
+.navItem:hover {
+    cursor: pointer;
+    background: #add8e6;
+}
+
+#headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    padding: 1rem;
+}

@@ -1,2 +1,3 @@
-Brad Bieselin's Personal Website
+Brad Bieselin's Personal Website  
+
 Flatiron School - Prework Personal Website Project
